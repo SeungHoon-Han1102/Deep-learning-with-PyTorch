@@ -21,7 +21,7 @@
 - 확률적 경사 하강법(SGD)를 중심으로 한 파라미터 최적화 알고리즘이 구현되어 있음.   
 ---
 5. torch.utils.data  
-SGD의 반복 연산을 실행할 때 사용하는 미니 배치용 유틸리티 함수가 포함.  
+- SGD의 반복 연산을 실행할 때 사용하는 미니 배치용 유틸리티 함수가 포함.  
 ---
 6. torch.onnx  
 - ONNX(Open Neural Network Exchange)의 포맷으로 모델을 익스포트(export)할 때 사용.  
